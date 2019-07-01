@@ -38,7 +38,7 @@
   ],
   "license": "MIT",
   "main": "index",
-  "name": "hexo-renderer-kramed",
+  "name": "@mgtd/hexo-renderer-kramed",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Enter-tainer/hexo-renderer-kramed.git"
