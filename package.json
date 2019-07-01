@@ -1,40 +1,16 @@
 {
-  "_from": "hexo-renderer-kramed",
-  "_id": "hexo-renderer-kramed@0.1.4",
-  "_inBundle": false,
-  "_integrity": "sha1-v4WEhbRGGOoWlKarwszL10VHjA8=",
-  "_location": "/hexo-renderer-kramed",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "tag",
-    "registry": true,
-    "raw": "hexo-renderer-kramed",
-    "name": "hexo-renderer-kramed",
-    "escapedName": "hexo-renderer-kramed",
-    "rawSpec": "",
-    "saveSpec": null,
-    "fetchSpec": "latest"
-  },
-  "_requiredBy": [
-    "#USER",
-    "/"
-  ],
-  "_resolved": "http://r.cnpmjs.org/hexo-renderer-kramed/download/hexo-renderer-kramed-0.1.4.tgz",
-  "_shasum": "bf858485b44618ea1694a6abc2cccbd745478c0f",
-  "_spec": "hexo-renderer-kramed",
-  "_where": "/home/hsfzxjy/srcs/hsfzxjy.github.io",
   "author": {
-    "name": "Starsky Wong",
-    "email": "sununs11@gmail.com",
-    "url": "http://sun11.me"
+    "name": "Margatroid",
+    "email": "i@margatroid.xyz",
+    "url": "https://margatroid.xyz"
   },
   "bugs": {
-    "url": "https://github.com/sun11/hexo-renderer-kramed/issues"
+    "url": "https://github.com/Enter-tainer/hexo-renderer-kramed/issues"
   },
   "bundleDependencies": false,
   "dependencies": {
     "hexo-util": "^0.6.0",
-    "kramed": "git+https://github.com/hsfzxjy/kramed.git",
+    "@mgtd/kramed": "0.5.6",
     "object-assign": "^4.1.0",
     "strip-indent": "^1.0.1"
   },
@@ -53,7 +29,7 @@
   "directories": {
     "lib": "./lib"
   },
-  "homepage": "https://github.com/sun11/hexo-renderer-kramed#readme",
+  "homepage": "https://github.com/Enter-tainer/hexo-renderer-kramed#readme",
   "keywords": [
     "hexo",
     "markdown",
@@ -65,7 +41,7 @@
   "name": "hexo-renderer-kramed",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sun11/hexo-renderer-kramed.git"
+    "url": "git+https://github.com/Enter-tainer/hexo-renderer-kramed.git"
   },
   "scripts": {
     "eslint": "eslint .",
